@@ -25,8 +25,8 @@ toolchain runs and is trivial to audit and drop onto a server.
 
 Download the archive for your OS and CPU from
 [GitHub Releases](https://github.com/ckbaker10/whereismyspace/releases).
-The first stable version is **v1.0.0**. Release files become available when
-the release draft is published.
+The first stable version is
+[**v1.0.0**](https://github.com/ckbaker10/whereismyspace/releases/tag/v1.0.0).
 
 | OS | CPU | Archive |
 |----|-----|---------|
