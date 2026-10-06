@@ -1,0 +1,23 @@
+# Compiled binary (matches BINARY in the Makefile)
+/whereismyspace
+
+# Cross-compiled release artifacts
+/bin/
+/dist/
+/work/
+
+# Test & coverage output
+coverage.out
+*.out
+*.test
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
